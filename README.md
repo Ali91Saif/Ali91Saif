@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali91Saif
+- 👋 Hi, I’m @Ali91Saif (recently joined the hub....exploring and adapting)
 - 👀 I’m interested in Learning new technology and its real world application.
 - 🌱 I’m currently learning Data Science, Machine Learning & Artificial Intelligence
 - 💞️ I’m looking to collaborate on Data Science and ML Projects
